@@ -1,3 +1,32 @@
+///////////////////////////////////////////////	 
+//Original code written by Decoder22
+//
+//Joker.js
+//  contains framework for a Groupme bot 
+//  originally intended to tell jokes
+///////////////////////////////////////////////
+//-------------------------------------------//
+//                                           //
+//    	          |\___|\                    //
+//           	   /       |.                  //
+//   	          |  .     |_                  //
+//    	        |          )                 //
+//   	          |      -v-v                  //
+//   	          /        |\                  //
+//	          Scratch-A-Bear Media           //
+//-------------------------------------------//
+//--------------Lukas Marinovic--------------//
+//-------------------------------------------//
+// Please visit:                             //
+//  -Github                                  //
+//	https://github.com/Lukasmmarinovic       //
+//-------------------------------------------//
+///////////////////////////////////////////////	  
+//Copyright (C) Scratch-A-Bear Media - All 
+//Rights Reserved
+//scratchabearmedia@gmail.com August 2017
+///////////////////////////////////////////////	 
+
 var botID = "BOT ID";
 
 var jokes = ["What do you call it when Batman skips church? Christian Bale.",
